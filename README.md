@@ -9,7 +9,7 @@ I'm a final-year B.Tech student specializing in **Artificial Intelligence & Data
 ### 🔧 Technical Skills
 
 - **Languages**: Python, SQL, HTML  
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, OpenCV, Librosa, PyTorch  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, PySpark, Scikit-learn  
 - **Data Tools**: Power BI, Excel, Jupyter, Google Colab  
 - **Databases**: SQLite, MySQL  
 - **Concepts**: EDA, KPI Tracking, Classification Models, Model Evaluation, Dashboarding
@@ -25,24 +25,19 @@ I'm a final-year B.Tech student specializing in **Artificial Intelligence & Data
 
 ---
 
-#### 🌱 [Plant Disease Detection](https://github.com/PavanRV7)
-> Trained a CNN model to detect plant diseases from leaf images, achieving 92% accuracy.  
-> **Tech Stack**: Python, OpenCV, CNN  
-> 🧠 Purpose: Smart agriculture & early disease alerts
+### 🏥 COVID-19 ICU Admission Prediction (https://github.com/PavanRV7)
+
+Built a data-driven ML system to predict ICU admission risk using 200K+ COVID-19 patient records, combining EDA, classification models, clustering, and PySpark pipelines.
+📊 Result: Identified key ICU risk factors and improved recall using SMOTE, supporting early high-risk patient detection.
+Tech Stack: Python, Pandas, Scikit-learn, PySpark, SQL, Looker Studio, Matplotlib/Seaborn
 
 ---
 
-#### 🧑‍🏫 [Face Recognition Attendance System](https://github.com/PavanRV7)
-> Developed a real-time face recognition tool using OpenCV integrated with SQLite.  
-> 📊 Result: Automated attendance logging with 90% reduction in manual entry  
-> **Tech Stack**: Python, OpenCV, SQLite
+🤖 AI Resume Pro
 
----
-
-### 📈 Upcoming Projects
-
-- **IPL Player Dashboard**: SQL + Power BI dashboard for analyzing performance, auctions & team stats  
-- **Sales Data Analytics**: Using Excel & Power BI for forecasting and regional trends
+Built an AI-powered resume analysis and career recommendation system that evaluates ATS compatibility, identifies skill gaps, and provides personalized improvement suggestions.
+📊 Result: Improved resume effectiveness and job-matching accuracy with automated, data-driven insights.
+Tech Stack: Python, NLP, Machine Learning, Django/Flask, React, SQL, GitHub
 
 ---
 
